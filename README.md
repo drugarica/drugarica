@@ -8,7 +8,10 @@ Open to collaboration.
 
 ### Projects
 
-- **Hotel Bookings EDA** — identification of the factors most closely associated with hotel booking cancellations.
+- **Hotel Bookings EDA**:
+   - data preprocessing
+   - identification of the factors most closely associated with hotel booking cancellations
+   - formulating recommendations for the hotel on risk minimization
 - **Social Media Analytics**:
    - A/B test analysis
    - User behavior and retention resear
