@@ -10,12 +10,12 @@ Open to collaboration.
 
 - **Hotel Bookings EDA** — identification of the factors most closely associated with hotel booking cancellations.
 - **Social Media Analytics**:
-    A/B test analysis
-    User behavior and retention research
-    Development of analytical dashboards
-    Automation of ETL processes in Airflow
-    Automated reporting in Telegram
-    Monitoring and alerting system
+   - A/B test analysis
+   - User behavior and retention resear
+   - Development of analytical dashboards
+   - Automation of ETL processes in Airflow
+   - Automated reporting in Telegram
+   - Monitoring and alerting system
 
 ### Tech Stack
 
